@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gensym60_parts")(type "KiCad")(uri "${KIPRJMOD}/gensym60_parts.kicad_sym")(options "")(descr ""))
+)

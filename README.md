@@ -23,3 +23,5 @@ A redesign of the symmetrical 60% keyboard.
 - https://microfan.shop/products/stm32f072-mini-r1
 - https://github.com/ShaneTWilliams/stm32-dev-board
 - https://github.com/bennymeg/Fabrication-Toolkit
+- https://github.com/Salicylic-acid3/KiCAD_FootPrint
+

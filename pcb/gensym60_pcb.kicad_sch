@@ -7178,6 +7178,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 274.32 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 274.32 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3094cbcb-cead-46a5-8328-8cb253d0bfd7")
 		)
@@ -7291,6 +7309,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 284.48 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 284.48 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 284.48 207.01 0)
 			(effects
 				(font
@@ -7440,6 +7476,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 116.84 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "facd578c-8d38-44bd-90a2-20a0ccc4ccfe")
 		)
@@ -7553,6 +7598,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 170.18 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 170.18 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 170.18 232.41 0)
 			(effects
 				(font
@@ -7694,6 +7757,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 193.04 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 193.04 284.48 90)
 			(effects
 				(font
@@ -7973,6 +8045,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 193.04 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eab07bbf-2572-455a-858c-305b4ff9a4de")
 		)
@@ -8114,6 +8195,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 137.16 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ec3d2f1-d059-455f-be63-2cd940c0e969")
 		)
@@ -8220,6 +8310,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 246.38 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 246.38 143.51 0)
 			(effects
 				(font
@@ -8369,6 +8468,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 193.04 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c70cbe2-2d4a-438f-9efe-6935fe59fdee")
 		)
@@ -8490,6 +8598,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 83.82 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 83.82 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9637ed31-aee1-4d8b-903c-41c48d1bfa6d")
 		)
@@ -8603,6 +8729,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 160.02 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 160.02 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 160.02 180.34 0)
 			(effects
 				(font
@@ -8797,6 +8941,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 274.32 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 274.32 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abf488ad-d581-41f0-8427-1e3c5e2aa988")
 		)
@@ -8910,6 +9072,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 170.18 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 170.18 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 170.18 257.81 0)
 			(effects
 				(font
@@ -9059,6 +9239,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 231.14 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ae7d964-ced2-4aa3-a94f-93bdab3650ce")
 		)
@@ -9192,6 +9381,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 193.04 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 193.04 208.28 90)
 			(effects
 				(font
@@ -9341,6 +9539,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 60.96 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1498eb9c-1efa-4398-b726-0916aea724a9")
 		)
@@ -9482,6 +9689,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 307.34 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc131428-11f8-4c3f-9f84-e8e680bb2fea")
 		)
@@ -9595,6 +9811,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 45.72 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 45.72 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 45.72 180.34 0)
 			(effects
 				(font
@@ -9789,6 +10023,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 93.98 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 93.98 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a80757d-644f-4cb6-9cca-44314c7d5100")
 		)
@@ -9910,6 +10162,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 236.22 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 236.22 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15f0debc-2322-4acf-ab7c-163a0aa28993")
 		)
@@ -10023,6 +10293,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 312.42 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 312.42 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 312.42 281.94 0)
 			(effects
 				(font
@@ -10172,6 +10460,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 251.46 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3197cefb-539c-4af4-815a-f405ea3c8a42")
 		)
@@ -10305,6 +10602,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 327.66 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 327.66 285.75 90)
 			(effects
 				(font
@@ -10454,6 +10760,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 154.94 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e058cdb-20b3-4b35-9830-0247d05e7110")
 		)
@@ -10595,6 +10910,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 307.34 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f6a9cd7-3413-41e5-b0ae-2c288717b5be")
 		)
@@ -10708,6 +11032,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 83.82 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 83.82 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 83.82 205.74 0)
 			(effects
 				(font
@@ -10857,6 +11199,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a820e627-1c6e-4872-99d1-ed7df9f01c6f")
 		)
@@ -10998,6 +11349,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 269.24 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb41a437-cfae-4706-81ae-49a8146b1c76")
 		)
@@ -11111,6 +11471,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 236.22 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 236.22 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 236.22 205.74 0)
 			(effects
 				(font
@@ -11252,6 +11630,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 40.64 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 40.64 284.48 90)
 			(effects
 				(font
@@ -11466,6 +11853,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b0a63bb-fab8-4600-8a80-618153f297cd")
 		)
@@ -11649,6 +12045,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "90"
+			(at 361.95 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 361.95 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8912645-f671-4af6-9b4f-09ff1a1b0f1b")
 		)
@@ -11794,6 +12208,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 116.84 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 116.84 182.88 90)
 			(effects
 				(font
@@ -12008,6 +12431,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 231.14 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bef36e1-d331-4e11-9857-6f1c01c0e2b3")
 		)
@@ -12149,6 +12581,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 269.24 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ffce3cb6-91ce-4333-8053-abc53d8a6592")
 		)
@@ -12262,6 +12703,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 322.58 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 322.58 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 322.58 283.21 0)
 			(effects
 				(font
@@ -12411,6 +12870,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 175.26 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3f1fd64-553a-4e43-8279-ba56872f5df1")
 		)
@@ -12532,6 +13000,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 121.92 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 121.92 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8f42e1c-af1e-4579-ab12-5390521c9fc3")
 		)
@@ -12645,6 +13131,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 132.08 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 132.08 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 132.08 257.81 0)
 			(effects
 				(font
@@ -12786,6 +13290,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 99.06 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 99.06 184.15 90)
 			(effects
 				(font
@@ -12982,6 +13495,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 113.03 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "996124be-eede-4031-a658-9359439b70fa")
 		)
@@ -13160,6 +13682,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 170.18 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 170.18 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 170.18 181.61 0)
 			(effects
 				(font
@@ -13374,6 +13914,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 231.14 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "881b3767-520c-428b-9290-e2541781d93a")
 		)
@@ -13507,6 +14056,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 175.26 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 175.26 184.15 90)
 			(effects
 				(font
@@ -13656,6 +14214,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 116.84 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11209246-ebf1-484e-9062-5c4f86fde157")
 		)
@@ -13797,6 +14364,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 40.64 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48f6bce7-ced3-4356-bacc-6fd6b66cc80b")
 		)
@@ -13910,6 +14486,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 45.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 45.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 45.72 205.74 0)
 			(effects
 				(font
@@ -14059,6 +14653,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 307.34 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aee5827b-9ab9-413b-a497-e764964a2725")
 		)
@@ -14200,6 +14803,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cddd4ac2-eaff-4247-ab09-0c091d7d5074")
 		)
@@ -14321,6 +14933,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 93.98 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 93.98 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e8664c0-f576-4137-8d96-4106c49111c4")
 		)
@@ -14426,6 +15056,15 @@
 			)
 		)
 		(property "Package" "SMD-4P,5.1x5.1mm"
+			(at 156.21 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 156.21 97.79 0)
 			(effects
 				(font
@@ -14575,6 +15214,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 99.06 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac5f93c8-d901-4aa4-ac41-0995874ab9a6")
 		)
@@ -14696,6 +15344,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 246.38 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 246.38 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3da081b1-729c-4f24-a3e0-a3194038d3c5")
 		)
@@ -14809,6 +15475,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 160.02 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 160.02 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 160.02 205.74 0)
 			(effects
 				(font
@@ -14958,6 +15642,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30228f36-089f-432f-9388-eba8513fc11c")
 		)
@@ -15099,6 +15792,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 137.16 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3aeb50bc-51df-40d8-acbb-e5618fcbdf62")
 		)
@@ -15212,6 +15914,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 160.02 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 160.02 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 160.02 256.54 0)
 			(effects
 				(font
@@ -15353,6 +16073,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 99.06 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 99.06 209.55 90)
 			(effects
 				(font
@@ -15742,6 +16471,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 132.08 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 132.08 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1043f453-4c72-4400-9951-4d004dc6f872")
 		)
@@ -15883,6 +16630,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 269.24 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "523e3c4a-e691-4bbe-a51e-ad5a1e8845c4")
 		)
@@ -15996,6 +16752,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 55.88 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 55.88 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 55.88 181.61 0)
 			(effects
 				(font
@@ -16145,6 +16919,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 213.36 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f21d6b2-d2ea-49e4-9306-6678d0e8bb92")
 		)
@@ -16258,6 +17041,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 246.38 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 246.38 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 246.38 232.41 0)
 			(effects
 				(font
@@ -16387,6 +17188,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 170.18 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 170.18 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71cee7d9-090a-465a-8ade-0b76b8129130")
 		)
@@ -16500,6 +17319,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 208.28 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 208.28 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 208.28 207.01 0)
 			(effects
 				(font
@@ -16649,6 +17486,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 175.26 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0cf6f24-1c0a-4cc4-8a08-1416b6a7c03f")
 		)
@@ -16754,6 +17600,15 @@
 			)
 		)
 		(property "Package" "1206"
+			(at 328.93 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 328.93 92.71 90)
 			(effects
 				(font
@@ -17071,6 +17926,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 295.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c3c4b04-6e9e-4973-a11b-4bd3489fc055")
 		)
@@ -17212,6 +18076,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 289.56 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b63e7f97-f6e6-4765-9a9e-a0909c5b39b8")
 		)
@@ -17333,6 +18206,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 274.32 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 274.32 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "667a6e1b-afd7-46ec-8191-b1a09ebed65f")
 		)
@@ -17446,6 +18337,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 236.22 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 236.22 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 236.22 256.54 0)
 			(effects
 				(font
@@ -17595,6 +18504,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 307.34 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "963e400e-5510-4346-9c1a-69e6531bf3a5")
 		)
@@ -17728,6 +18646,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 193.04 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 193.04 233.68 90)
 			(effects
 				(font
@@ -17877,6 +18804,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 269.24 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4f5cf43-a26f-4f99-bb15-16a8e739a611")
 		)
@@ -17983,6 +18919,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 233.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 233.68 143.51 0)
 			(effects
 				(font
@@ -18132,6 +19077,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 269.24 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49bd43c0-e89c-480d-ab93-bafe82fb5abe")
 		)
@@ -18245,6 +19199,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 208.28 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 208.28 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 208.28 232.41 0)
 			(effects
 				(font
@@ -18439,6 +19411,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 93.98 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 93.98 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ae77b6d-768e-459a-8027-d59ae2d679fb")
 		)
@@ -18543,6 +19533,15 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 167.64 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 167.64 102.87 90)
 			(effects
 				(font
@@ -18757,6 +19756,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 99.06 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf55e9ae-39d2-40ef-8104-8c711c5f27fa")
 		)
@@ -18898,6 +19906,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 251.46 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abeeadd3-4f23-4bd6-8894-9eda1d71d907")
 		)
@@ -19011,6 +20028,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 236.22 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 236.22 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 236.22 180.34 0)
 			(effects
 				(font
@@ -19142,6 +20177,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 100.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d28f55be-2c38-4a7f-80e3-196339c49dc7")
 		)
@@ -19258,6 +20302,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 132.08 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 132.08 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 132.08 181.61 0)
 			(effects
 				(font
@@ -19407,6 +20469,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 137.16 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "813bd60e-7a53-4c61-8f5d-be857582035c")
 		)
@@ -19548,6 +20619,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 40.64 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2fee60bc-4b02-4993-8f76-0673ce4ecc54")
 		)
@@ -19669,6 +20749,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 45.72 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 45.72 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ad4815f-efcd-44a1-93e0-9979aa842c22")
 		)
@@ -19775,6 +20873,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 345.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 345.44 105.41 0)
 			(effects
 				(font
@@ -19924,6 +21031,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 289.56 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8e51a7d-4860-4c16-b465-a07a80a40367")
 		)
@@ -20065,6 +21181,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 213.36 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9cd1ff6-0601-4da7-864a-6d623b6dc3d0")
 		)
@@ -20198,6 +21323,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 40.64 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 40.64 182.88 90)
 			(effects
 				(font
@@ -20412,6 +21546,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 289.56 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57703b21-b023-4e11-8ad6-84b98d195d18")
 		)
@@ -20525,6 +21668,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 246.38 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 246.38 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 246.38 181.61 0)
 			(effects
 				(font
@@ -20654,6 +21815,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 208.28 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 208.28 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a79abbb-fdde-42f9-bb8b-e8c7cc839037")
 		)
@@ -20760,6 +21939,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 189.23 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 189.23 40.64 0)
 			(effects
 				(font
@@ -20889,6 +22077,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 198.12 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2958eeeb-058b-49af-87c6-d69cd0f3249f")
 		)
@@ -21010,6 +22216,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 121.92 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 121.92 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8d32621-f2d6-43e9-99ff-7284cc4f4cb8")
 		)
@@ -21116,6 +22340,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 287.02 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 287.02 55.88 0)
 			(effects
 				(font
@@ -21245,6 +22478,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 83.82 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 83.82 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f796b927-571f-4d80-b019-a37b0b58bf09")
 		)
@@ -21366,6 +22617,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 274.32 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 274.32 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e508eef4-db85-4a7d-981b-a66b78c41d55")
 		)
@@ -21479,6 +22748,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 93.98 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 93.98 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 93.98 283.21 0)
 			(effects
 				(font
@@ -21666,6 +22953,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2418442c-efc8-4b9f-aa12-ace1dd5bca2c")
 		)
@@ -21789,6 +23085,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 87.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a9a61ad-44c2-49da-adfe-2296a7c633cf")
 		)
@@ -21902,6 +23207,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 132.08 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 132.08 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 132.08 232.41 0)
 			(effects
 				(font
@@ -22096,6 +23419,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 312.42 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 312.42 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f55ca1f7-2c13-40fa-adeb-47144e5a5942")
 		)
@@ -22282,6 +23623,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 83.82 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 83.82 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24b899c8-361a-435f-aadb-ee02d05a8be9")
 		)
@@ -22423,6 +23782,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 231.14 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "297f1c16-8254-48e6-b92b-e1ef9b574cc7")
 		)
@@ -22544,6 +23912,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 312.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 312.42 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4ab2cbc-b6f3-491a-8c1a-0af630d853bf")
 		)
@@ -22657,6 +24043,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 274.32 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 274.32 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 274.32 281.94 0)
 			(effects
 				(font
@@ -22806,6 +24210,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 154.94 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31b38f92-59f6-4b85-ba38-bdd20219621d")
 		)
@@ -22927,6 +24340,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 45.72 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 45.72 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df5eb5aa-1f39-43f3-9965-eb7bbfaa6cc2")
 		)
@@ -23040,6 +24471,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 198.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 198.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 198.12 180.34 0)
 			(effects
 				(font
@@ -23189,6 +24638,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 154.94 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c58fb4d7-cd6e-4ab3-a003-3883e0857fc9")
 		)
@@ -23330,6 +24788,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da808684-c7e5-4f06-a60b-ac90a707ce1e")
 		)
@@ -23451,6 +24918,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 198.12 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 198.12 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa790a74-7ca3-4688-bf63-3d8787d83314")
 		)
@@ -23557,6 +25042,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 179.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 179.07 125.73 0)
 			(effects
 				(font
@@ -23680,6 +25174,15 @@
 		)
 		(property "Package" "LQFP-48(7x7)"
 			(at 231.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 231.14 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23946,6 +25449,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 284.48 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 284.48 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e12f00d6-2697-499d-8b98-206dbbb6534c")
 		)
@@ -24079,6 +25600,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 175.26 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 175.26 209.55 90)
 			(effects
 				(font
@@ -24273,6 +25803,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 121.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 121.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49137457-c244-4793-9acf-ded7b46fa290")
 		)
@@ -24406,6 +25954,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 116.84 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 116.84 208.28 90)
 			(effects
 				(font
@@ -24620,6 +26177,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 251.46 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54c8793d-b930-410b-93f3-3fad2dadd8a7")
 		)
@@ -24733,6 +26299,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 246.38 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 246.38 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 246.38 207.01 0)
 			(effects
 				(font
@@ -24929,6 +26513,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 255.27 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12c5443a-845c-49ea-8090-98cab4a6cb87")
 		)
@@ -25050,6 +26643,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 284.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 284.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71afc1d2-7a93-46a1-a59a-0c7c4b4bd148")
 		)
@@ -25163,6 +26774,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 83.82 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 83.82 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 83.82 281.94 0)
 			(effects
 				(font
@@ -25312,6 +26941,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 154.94 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccae7cf4-18f8-4e40-ac2c-bad53dfb3f3f")
 		)
@@ -25425,6 +27063,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 312.42 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 312.42 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 312.42 231.14 0)
 			(effects
 				(font
@@ -25610,7 +27266,25 @@
 				(hide yes)
 			)
 		)
-		(property "FT Rotation Offset" ""
+		(property "FT Rotation Offset" "180"
+			(at 198.12 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 198.12 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "0.635,3.81"
 			(at 198.12 281.94 0)
 			(effects
 				(font
@@ -25805,6 +27479,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 45.72 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 45.72 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc66219e-6592-40b3-8576-fb406485160a")
 		)
@@ -25918,6 +27610,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 312.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 312.42 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 312.42 256.54 0)
 			(effects
 				(font
@@ -26112,6 +27822,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 121.92 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 121.92 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b1c5599-a1f1-4dea-b838-dfd27cd71353")
 		)
@@ -26228,6 +27956,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 353.06 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 353.06 69.85 0)
 			(effects
 				(font
@@ -26448,6 +28185,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 213.36 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fec026ed-aa9f-41cc-a41a-04e1d16f00e2")
 		)
@@ -26654,6 +28400,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 137.16 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64dbbb6e-1f24-40df-b71f-37230c8a0f3d")
 		)
@@ -26795,6 +28550,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 213.36 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10ff3b37-adb4-4711-95ea-19868e572a9b")
 		)
@@ -26916,6 +28680,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 208.28 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 208.28 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddbe17df-ebd8-43fb-abcc-21defc9cea36")
 		)
@@ -27022,6 +28804,15 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 180.34 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 180.34 40.64 0)
 			(effects
 				(font
@@ -27163,6 +28954,15 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 251.46 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 251.46 234.95 90)
 			(effects
 				(font
@@ -27442,6 +29242,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 40.64 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b27fabcf-1445-4d56-85c0-83b7a3f9acd5")
 		)
@@ -27628,6 +29437,24 @@
 				(hide yes)
 			)
 		)
+		(property "FT Layer Override" "bottom"
+			(at 198.12 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
+			(at 198.12 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "960153ee-28ad-486a-b1c4-0af2cef1f27b")
 		)
@@ -27769,6 +29596,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 307.34 208.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df833c68-f0df-47d6-bc0b-5b5f56cc1643")
 		)
@@ -27882,6 +29718,24 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 160.02 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Layer Override" "bottom"
+			(at 160.02 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Position Offset" "-0.635,-3.81"
 			(at 160.02 231.14 0)
 			(effects
 				(font

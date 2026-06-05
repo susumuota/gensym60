@@ -1,6 +1,11 @@
 .vscode
+.DS_Store
 *-backups
 *.bak
 *.lck
 backups
 fp-info-cache
+
+# Fabrication Toolkit outputs not needed for ordering
+**/production/netlist.ipc
+**/production/designators.csv

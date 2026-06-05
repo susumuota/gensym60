@@ -1,9 +1,10 @@
-.vscode
+.claude/
+.vscode/
 .DS_Store
-*-backups
+*-backups/
 *.bak
 *.lck
-backups
+backups/
 fp-info-cache
 
 # Fabrication Toolkit outputs not needed for ordering

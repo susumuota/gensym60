@@ -1,5 +1,6 @@
 .claude/
 .vscode/
+.history/
 .DS_Store
 *-backups/
 *.bak

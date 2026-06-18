@@ -10,6 +10,46 @@ A redesign of the symmetrical 60% keyboard.
 - Arrow keys (Up is mod-tap on the right shift)
 - No split right shift
 
+
+## Build firmware
+
+```shell
+git clone https://github.com/susumuota/gensym60.git
+
+git clone https://github.com/vial-kb/vial-qmk.git
+cd vial-qmk
+
+# copy gensym60 directory to vial-qmk
+rsync -av --delete ../gensym60/vial-qmk/keyboards/infinitemonkey/gensym60/ keyboards/infinitemonkey/gensym60/
+
+RUNTIME="docker" SKIP_FLASHING_SUPPORT=1 util/docker_cmd.sh make infinitemonkey/gensym60:vial
+
+ls -l infinitemonkey_gensym60_vial.bin
+# -rwxr-xr-x 1 user group 37072 Jun 18 01:23 infinitemonkey_gensym60_vial.bin
+```
+
+## Flash firmware
+
+Install `dfu-util` package.
+
+```shell
+brew install dfu-util
+```
+
+```shell
+# unplug and plug the device pressing the dfu button
+dfu-util -l
+sudo dfu-util -a 0 -s 0x08000000:unprotect:force
+
+# unplug and plug the device pressing the dfu button
+dfu-util -l
+sudo dfu-util -a 0 -s 0x08000000:mass-erase:force
+
+# unplug and plug the device pressing the dfu button
+dfu-util -l
+sudo dfu-util -a 0 -s 0x08000000:leave -D infinitemonkey_gensym60_vial.bin
+```
+
 ## References
 
 - https://github.com/Unified-Daughterboard/UDB-C-JSH

@@ -1,6 +1,6 @@
 {
     "manufacturer": "Infinite Monkey",
-    "keyboard_name": "Gensym60",
+    "keyboard_name": "gensym60",
     "maintainer": "susumuota",
     "processor": "STM32F072",
     "bootloader": "stm32-dfu",

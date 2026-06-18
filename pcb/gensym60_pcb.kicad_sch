@@ -5,7 +5,7 @@
 	(uuid "c1f78974-8be0-4f4e-b48d-4546b841f766")
 	(paper "A2")
 	(title_block
-		(title "Gensym60")
+		(title "gensym60")
 		(date "2025-10-21")
 		(rev "v0.0.1")
 		(company "Susumu Ota")

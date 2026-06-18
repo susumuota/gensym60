@@ -8,7 +8,7 @@
 	)
 	(paper "A3")
 	(title_block
-		(title "Gensym60 PCB")
+		(title "gensym60 PCB")
 		(date "2025-11-01")
 		(rev "v1.0.0")
 		(company "Susumu Ota")
@@ -76707,7 +76707,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fbbdf1f9-ef9f-453a-85c7-da615211f00e")
 	)
-	(gr_text "Gensym60 v1.0.0 by Susumu Ota"
+	(gr_text "gensym60 v1.0.0 by Susumu Ota"
 		(at 88.180638 149.721016 0)
 		(layer "B.SilkS")
 		(uuid "3aaafeed-eb1d-46da-8905-8d9cfcb84619")

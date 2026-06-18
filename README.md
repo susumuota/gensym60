@@ -1,4 +1,4 @@
-# Gensym60
+# gensym60
 
 A redesign of the symmetrical 60% keyboard.
 
